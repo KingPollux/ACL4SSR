@@ -1,16 +1,12 @@
 # 内容：补充白名单直连线路
-
 # 电影线路
 # 低端
 DOMAIN-SUFFIX,ddys.pro
 DOMAIN-SUFFIX,ddys.mov
 DOMAIN-SUFFIX,ddys.tv
-
-
 # 剧狗狗
 DOMAIN-KEYWORD,jugougou
 DOMAIN-KEYWORD,jgghd
-
 # hdmoli
 DOMAIN,www.hdmoli.pro
 DOMAIN,v.damoli.pro
