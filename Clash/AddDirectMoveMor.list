@@ -1,9 +1,23 @@
 # 内容：补充白名单直连线路
 
 # 电影线路
-DOMAIN,ddys.pro
-DOMAIN,ddys.mov
-DOMAIN,ddys.tv
-DOMAIN,www.hdmoli.pro
+# 低端
+DOMAIN-SUFFIX,ddys.pro
+DOMAIN-SUFFIX,ddys.mov
+DOMAIN-SUFFIX,ddys.tv
+
+
+# 剧狗狗
 DOMAIN-KEYWORD,jugougou
 DOMAIN-KEYWORD,jgghd
+
+# hdmoli
+DOMAIN,www.hdmoli.pro
+DOMAIN,v.damoli.pro
+DOMAIN,v1.mzxay.com
+DOMAIN,v3-cha.toutiaovod.com
+DOMAIN,media-hncs-fy-corp.hn12oss.ctyunxs.cn
+DOMAIN-SUFFIX,damoli.pro
+DOMAIN-SUFFIX,mzxay.com
+DOMAIN-SUFFIX,toutiaovod.com
+DOMAIN-SUFFIX,ctyunxs.cn
