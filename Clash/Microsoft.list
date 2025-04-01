@@ -13,8 +13,11 @@ DOMAIN-SUFFIX,assets-yammer.com
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azure.net
 DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,azureiotcentral.com
 DOMAIN-SUFFIX,azurerms.com
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,cloudapp.net
 DOMAIN-SUFFIX,cloudappsecurity.com
 DOMAIN-SUFFIX,edgesuite.net
@@ -33,6 +36,7 @@ DOMAIN-SUFFIX,msftauth.net
 DOMAIN-SUFFIX,msftauthimages.net
 DOMAIN-SUFFIX,msftidentity.com
 DOMAIN-SUFFIX,msidentity.com
+DOMAIN-SUFFIX,msn.cn
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,msocdn.com
 DOMAIN-SUFFIX,msocsp.com
